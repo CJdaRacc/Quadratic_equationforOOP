@@ -1,0 +1,10 @@
+RAN IN COMMAND LINE 
+
+	NOTE: quad and run have the name contents inside them
+
+cls - clears the terminal 
+
+to run the executable file - (name of file).exe
+
+create executable - g++ -o run (name of file).cpp 
+		 or g++ -o (name i want the executable) (name of file).cpp
